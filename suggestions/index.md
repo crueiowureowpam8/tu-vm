@@ -53,3 +53,32 @@ Still open:
 - Publish quarterly roadmap and retrospective summaries
 
 See [`implementation-backlog.md`](./implementation-backlog.md) for the trimmed backlog and the next ten prioritized recommendations.
+
+## Consolidated entries from parallel suggestion branches
+
+[`README.md`](./README.md) as the primary folder entry point and canonical
+5. [Extensions and Integration Framework](./extensions-and-integration-framework.md)
+| Historical reuse | [`historical-patterns-from-project.md`](./historical-patterns-from-project.md) | Existing TU-VM patterns to extend before adding new systems. |
+1. [Historical Suggestions](./historical-suggestions.md) and [Website Historical Baseline](./website-historical-baseline.md)
+4. [Website Community Framework](./website-community-framework.md)
+4. [Community governance](./website-community-governance.md) — defines
+3. [Website community pages](./website-community-pages.md) — defines the page
+3. [Website Community Platform](./website-community-platform.md)
+0. [Website Community System Blueprint](./website-community-system-blueprint.md)
+0. [Canonical Website Community System](./website-community-system-canonical.md): Start here for the consolidated framework, lifecycle statuses, suggestion file contract, and tooling roadmap.
+4. [Contributor Tooling and Day-to-Day Operations](./website-contributor-tooling.md)
+5. [Day-to-day tooling](./website-day-to-day-tooling.md) — specifies established
+1. [Historical Suggestions Baseline](./website-historical-baseline.md)
+1. [Historical suggestions](./website-historical-suggestions.md) — checks
+2. [Website Information Architecture](./website-information-architecture.md)
+3. [Website Markdown Publishing System](./website-markdown-publishing-system.md)
+7. [Historical Product Roadmap](./website-roadmap-from-historical-suggestions.md)
+4. [Website Suggestion Dedupe Map](./website-suggestion-dedupe-map.md)
+4. [Website Tools and Automation](./website-tools-and-automation.md)
+4. [Day-to-Day Community Tools](./website/day-to-day-community-tools.md)
+- Publish quarterly roadmap and retrospective summaries via [`website/decision-log.md`](./website/decision-log.md) + [`website/implemented-showcase.md`](./website/implemented-showcase.md)
+- Create plugin/integration curation process (start from [`website/extension-pilot-contract.md`](./website/extension-pilot-contract.md))
+2. [How to Submit](./website/how-to-submit.md)
+1. [Publishable website pages](./website/index.md)
+5. [MCP Tools Community Catalog](./website/mcp-tools-catalog.md) — distinct constructional focus
+3. [Status Board](./website/status-board.md)
